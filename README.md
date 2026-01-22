@@ -18,10 +18,6 @@ A Quiz App built using Android Studio that allows users to answer multiple-choic
 - Android Studio
 - XML for UI design
 
----
-
-## 📸 Screenshots
-(Add screenshots here later)
 
 ---
 
