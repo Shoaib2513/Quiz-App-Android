@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="orange">#f78441</color>
+    <color name="navy_blue">#352ef4</color>
+    <color name="purple">#8c72ed</color>
+    <color name="blue">#45beb9</color>
+    <color name="red">#f55150</color>
+    <color name="green">#34d287</color>
+    <color name="grey">#808080</color>
+
+
+    <color name="m3_teal">#00695C</color>
+    <color name="m3_teal_light">#26A69A</color>
+    <color name="m3_gray">#D7D7D7</color>
+    <color name="ripple_white">#33FFFFFF</color>
+
+
+
+
+
+
+
+
+
+</resources>
